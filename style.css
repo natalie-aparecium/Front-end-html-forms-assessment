@@ -1,0 +1,11 @@
+.label-style {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.label-style-message {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-content: stretch;
+}
